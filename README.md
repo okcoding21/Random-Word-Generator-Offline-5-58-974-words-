@@ -14,5 +14,5 @@ Download from Google Playstore :
 https://play.google.com/store/apps/details?id=com.teamup.randomwordgeneratorapp
 
 Download from github : 
-https://github.com/okcoding21/Programs-App/raw/master/Programs%20App.apk
+https://github.com/okcoding21/Random-Word-Generator-Offline-5-58-974-words-/raw/master/app-release.apk
 
